@@ -1,0 +1,7 @@
+{
+    "name": "Window Resize",
+    "version": "1.0.0",
+    "author": "Grady Paulson",
+    "license": "Apache Licence 2.0",
+    "description": "Allows the user to resize the video call popout window."
+}
